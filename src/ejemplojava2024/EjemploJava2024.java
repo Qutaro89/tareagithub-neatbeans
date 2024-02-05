@@ -17,6 +17,10 @@ public class EjemploJava2024 {
        // TODO code application logic here
        
         System.out.println(">Epi: ¡Hola, Blas!");
+
+        System.out.println(">Blas: Hola, Epi ¿Has visto a Don Pepito?");
+
+        System.out.println(">Epi: No , pero en su horario pone que esta con Don Jose");
        
     }
     
